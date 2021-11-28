@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1636027696 source:f:\car rental system\main.c
+	<stdlib.h>
+	"conio2.h"
+	"car.h"
+
+1386340778 f:\car rental system\conio2.h
+	<conio.h>
+	<windows.h>
+
+1386420876 source:f:\car rental system\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1636027466 source:f:\car rental system\car.c
+	<string.h>
+	<stdio.h>
+	"conio2.h"
+	"car.h"
+	<stdlib.h>
+	<windows.h>
+
+1636027229 f:\car rental system\car.h
+	<time.h>
+
